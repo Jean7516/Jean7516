@@ -43,7 +43,7 @@
   <a href="https://x.com/jeanv7516">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="">
+  <a href="mailto:jeanvl75.16@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="">
