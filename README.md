@@ -1,16 +1,38 @@
-## Hi there 👋
+<img 
+  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+  alt="illustration of a computer" 
+  min-width="400px" 
+  max-width="400px" 
+  width="400px" 
+  align="right" 
+/>
 
-<!--
-**Jean7516/Jean7516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Hi! I'm <code>&lt;/Sailok&gt;</code></h1>
 
-Here are some ideas to get you started:
+<p align="left">
+  I'm a <strong>Computer Technician</strong> specialized in <strong>web and mobile app development</strong>. I enjoy combining creativity and technology, and I share here my academic and personal projects as I keep improving my skills. My goal is to become a professional in digital design and app development.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  🛠️ <strong>Languages I work with:</strong>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bash,bootstrap,cloudflare,css,debian,discord,docker,express,figma,firebase,git,github,gmail,hibernate,html,java,js,linkedin,maven,mongodb,mysql,neovim,nestjs,nextjs,nodejs,pnpm,postgres,prisma,react,redis,spring,sequelize,tailwind,twitter,ts,vite,vscode" />
+</p>
+<p align="left">
+  💼 <strong>Tools and skills:</strong>
+</p>
+
+<p align="left">
+</p>
+
+<p align="left">
+  🌍 <strong>Languages I speak:</strong>
+</p>
+
+
+
+<p align="left">
+  💌 Feel free to reach out: ⤵️
+</p>
+
