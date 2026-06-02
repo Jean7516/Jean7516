@@ -17,9 +17,11 @@
   🛠️ <strong>Languages I work with:</strong>
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,css,html" />
-</p>
+
+   <a href="javascript:void(0)" style="cursor: default;">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,css,html""  />
+  </a>
+
 
 <p align="left">
   💼 <strong>Tools, framework, database, and skills:</strong>
