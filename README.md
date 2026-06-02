@@ -17,25 +17,29 @@
   🛠️ <strong>Languages I work with:</strong>
 </p>
 
-
-   <a href="javascript:void(0)" style="cursor: default;">
+<p align="left">
+   <a href="#inline-badges">
     <img src="https://skillicons.dev/icons?i=java,js,ts,css,html""  />
   </a>
-
+</p>
 
 <p align="left">
   💼 <strong>Tools, framework, database, and skills:</strong>
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,react,vite,nextjs,nestjs,tailwind,bootstrap,hibernate,express,prisma,sequelize,maven,mongodb,mysql,postgres,redis,firebase,cloudflare" />
+  <a href="#inline-badges">
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,react,vite,nextjs,nestjs,tailwind,bootstrap,hibernate,express,prisma,sequelize,maven,mongodb,mysql,postgres,redis,firebase,cloudflare" />
+  </a>  
 </p>
 
 <p align="left">
   🌍 <strong>Work environment:</strong>
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,debian,docker,git,github,neovim,pnpm,vscode" />
+  <a href="#inline-badges">
+    <img src="https://skillicons.dev/icons?i=bash,debian,docker,git,github,neovim,pnpm,vscode" />
+  </a>  
 </p>
 
 <p align="left">
@@ -51,7 +55,7 @@
   <a href="">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="">
+  <a href="#inline-badges">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
