@@ -39,7 +39,18 @@
 <p align="left">
   💌 Feel free to contact me:: ⤵️
 </p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=discord,gmail,linkedin,twitter" />
+<p align="center">
+  <a href="https://x.com/jeanv7516">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
 </p>
 
