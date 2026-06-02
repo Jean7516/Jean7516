@@ -1,5 +1,5 @@
 <img 
-  src="https://raw.githubusercontent.com/Jean7516/Jean7516/refs/heads/main/aaa.png" 
+  src="https://raw.githubusercontent.com/Jean7516/Jean7516/refs/heads/main/imaagen.png" 
   alt="illustration of a computer" 
   min-width="300px" 
   max-width="300px" 
