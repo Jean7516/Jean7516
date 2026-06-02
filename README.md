@@ -16,23 +16,30 @@
 <p align="left">
   🛠️ <strong>Languages I work with:</strong>
 </p>
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,bootstrap,cloudflare,css,debian,discord,docker,express,figma,firebase,git,github,gmail,hibernate,html,java,js,linkedin,maven,mongodb,mysql,neovim,nestjs,nextjs,nodejs,pnpm,postgres,prisma,react,redis,spring,sequelize,tailwind,twitter,ts,vite,vscode" />
-</p>
-<p align="left">
-  💼 <strong>Tools and skills:</strong>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,css,html" />
 </p>
 
 <p align="left">
+  💼 <strong>Tools, framework, database, and skills:</strong>
 </p>
 
 <p align="left">
-  🌍 <strong>Languages I speak:</strong>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,react,vite,nextjs,nestjs,tailwind,bootstrap,hibernate,express,prisma,sequelize,maven,mongodb,mysql,postgres,redis,firebase,cloudflare" />
 </p>
 
-
+<p align="left">
+  🌍 <strong>Work environment:</strong>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bash,debian,docker,git,github,neovim,pnpm,vscode" />
+</p>
 
 <p align="left">
-  💌 Feel free to reach out: ⤵️
+  💌 Feel free to contact me:: ⤵️
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=discord,gmail,linkedin,twitter" />
 </p>
 
